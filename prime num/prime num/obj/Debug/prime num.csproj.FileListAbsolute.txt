@@ -1,0 +1,8 @@
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num\bin\Debug\prime num.exe.config
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num\bin\Debug\prime num.exe
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num\bin\Debug\prime num.pdb
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num\obj\Debug\prime num.csproj.AssemblyReference.cache
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num\obj\Debug\prime num.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num\obj\Debug\prime num.csproj.CoreCompileInputs.cache
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num\obj\Debug\prime num.exe
+C:\Users\Dell XPS\Desktop\engineer\prime num\prime num\obj\Debug\prime num.pdb
